@@ -20,4 +20,4 @@
 
 🐦 <a href = "https://twitter.com/hari_aumm"> Twitter <a>
 
-🕸️ <a href = "https://hariomjoshi.github.io/portfolioWebsite/"> Portfolio <a>
+🕸️ <a href = "https://hariomjoshi.github.io/portfolioWebsite/"> Portfolio Website<a>
